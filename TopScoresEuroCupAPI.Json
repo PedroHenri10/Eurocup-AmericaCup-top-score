@@ -1,0 +1,611 @@
+{
+  "competitions": [
+    {
+      "id": 1,
+      "name": "Eurocopa",
+      "editions": [
+        {
+          "year": 2024,
+          "champion": "Spain",
+          "topScorers": [
+            {
+              "classification": 1,
+              "player": "Jamal Musiala",
+              "position": "Meia",
+              "position_UK": "CAM",
+              "team": "Bayern de munique",
+              "country": "Germany",
+              "goals": 3, 
+              "assists": 0,
+              "games": 5
+            },
+            {
+              "classification": 2,
+              "player": "Ivan Schranz",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Slovan Bratislava",
+              "country": "Slovakia",
+              "goals": 3,
+              "assistss": 0,
+              "games": 4
+            },    
+            {
+              "classification": 3,
+              "player": "Dani Olmo",
+              "position": "MC",
+              "position_UK": "CAM",
+              "team": "RB Leipzig",
+              "country": "Spain",
+              "goals": 3,
+              "assists": 2,
+              "games": 6
+            },
+            {
+              "classification": 4,
+              "player": "Georges Mikautadze",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Fc Metz",
+              "country": "Georgia",
+              "goals": 3,
+              "assists": 1,
+              "games": 4
+            },
+            {
+              "classification": 5,
+              "player": "Cody Gakpo",
+              "position": "PE",
+              "position_UK": "LW",
+              "team": "Liverpool",
+              "country": "Netherlands",
+              "goals": 3,
+              "assists": 1,
+              "games": 6
+            },
+            {
+              "classification": 6,
+              "player": "Harry Kane",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Bayern de Munique",
+              "country": "England",
+              "goals": 3,
+              "assists": 0,
+              "games": 7 
+            },
+            {
+              "classification": 7,
+              "player": "Kai Havertz",
+              "position": "Meia",
+              "position_UK": "CAM",
+              "team": "Arsenal",
+              "country": "Germany",
+              "goals": 2,
+              "assists": 1,
+              "games": 5
+            },
+            {
+              "classification": 8,
+              "player": "Füllkrug",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Borussia Dortmund",
+              "country": "Germany",
+              "goals": 2,
+              "assists": 0,
+              "games": 5
+            }
+          ]
+          
+        },
+        {
+          "year": 2020,
+          "champion": "Italy",
+          "topScorers": [
+            {
+              "classification": 1,
+              "player": "Cristiano Ronaldo",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Man United",
+              "country": "Portugal",
+              "goals": 5, 
+              "assists": 1,
+              "games": 4
+            },
+            {
+              "classification": 2,
+              "player": "Patrik Schick",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Bayer Leverkusen",
+              "country": "Czech-Republic",
+              "goals": 5,
+              "assistss": 0,
+              "games": 4
+            },    
+            {
+              "classification": 3,
+              "player": "Romelu Lukaku",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Inter de Milão",
+              "country": "Belgium",
+              "goals": 4,
+              "assists": 0,
+              "games": 5
+            },
+            {
+              "classification": 4,
+              "player": "Emil Forsberg",
+              "position": "Meia",
+              "position_UK": "CAM",
+              "team": "RB Leipzig",
+              "country": "Sweden",
+              "goals": 4,
+              "assists": 0,
+              "games": 4
+            },
+            {
+              "classification": 5,
+              "player": "Karin Benzena",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Real Madrid",
+              "country": "France",
+              "goals": 4,
+              "assists": 0,
+              "games": 4
+           },
+           {
+              "classification": 6,
+              "player": "Harry kane",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Tottenham",
+              "country": "England",
+              "goals": 4,
+              "assists": 0,
+              "games": 7
+            },
+            {
+              "classification": 7,
+              "player": "Xherdan Shaqiri",
+              "position": "Meia",
+              "position_UK": "CAM",
+              "team": "Liverpool",
+              "country": "Switzerland",
+              "goals": 3,
+              "assists": 1,
+              "games": 5
+            },
+            {
+              "classification": 8,
+              "player": "Robert Lewandowski",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Bayern de Munique",
+              "country": "Poland",
+              "goals": 3,
+              "assists": 0,
+              "games": 3
+            }
+          ]
+          
+        },
+        {
+          "year": 2016,
+          "champion": "Portugal",
+          "topScorers": [
+            {
+              "classification": 1,
+              "player": "Antoine Griezmann",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Atletico de madrid",
+              "country": "France",
+              "goals": 6, 
+              "assists": 2,
+              "games": 7
+            },
+            {
+              "classification": 2,
+              "player": "Cristiano Ronaldo",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Real Madrid",
+              "country": "Portugal",
+              "goals": 3,
+              "assistss": 2,
+              "games": 7
+            },    
+            {
+              "classification": 3,
+              "player": "Álvaro Morata",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Juventus",
+              "country": "Spain",
+              "goals": 3,
+              "assists": 0,
+              "games": 4
+            },
+            {
+              "classification": 4,
+              "player": "Gareth Bale",
+              "position": "PD",
+              "position_UK": "RW",
+              "team": "Real Madrid",
+              "country": "Wales",
+              "goals": 3,
+              "assists": 0,
+              "games": 6
+            },
+            {
+              "classification": 5,
+              "player": "Olivier Giroud",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Arsenal",
+              "country": "France",
+              "goals": 3,
+              "assists": 0,
+              "games": 6
+           },
+           {
+              "classification": 6,
+              "player": "Nani",
+              "position": "PE",
+              "position_UK": "LW",
+              "team": "Fenerbahce",
+              "country": "Portugal",
+              "goals": 3,
+              "assists": 1,
+              "games": 7
+            },
+            {
+              "classification": 7,
+              "player": "Dimitri Payet",
+              "position": "PE",
+              "position_UK": "LW",
+              "team": "West-Ham",
+              "country": "France",
+              "goals": 3,
+              "assists": 2,
+              "games": 7
+            },
+            {
+              "classification": 8,
+              "player": "Graziano Pellè",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Southampton",
+              "country": "Italy",
+              "goals": 2,
+              "assists": 0,
+              "games": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Copa América",
+      "editions": [
+        {
+          "year": 2024,
+          "champion": "Argentina",
+          "topScorers": [
+              {
+                "classification": 1,
+                "player": "Lautaro Martinez",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Inter de Milão",
+                "country": "Argentina",
+                "goals": 5, 
+                "assists": 0,
+                "games": 6
+              },
+              {
+                "classification": 2,
+                "player": "Salomón Rondón",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Pachuca",
+                "country": "Venezuela",
+                "goals": 3,
+                "assistss": 1,
+                "games": 4
+              },    
+              {
+                "classification": 3,
+                "player": "Luis Diaz",
+                "position": "PE",
+                "position_UK": "LM",
+                "team": "Liverpool",
+                "country": "Colombian",
+                "goals": 2,
+                "assists": 0,
+                "games": 6
+              },
+              {
+                "classification": 4,
+                "player": "Darwin Nuñez",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Liverpool",
+                "country": "Uruguay",
+                "goals": 2,
+                "assists": 0,
+                "games": 6
+              },
+              {
+                "classification": 5,
+                "player": "Vinicius Junior",
+                "position": "PE",
+                "position_UK": "LW",
+                "team": "Real Madrid",
+                "country": "Brasil",
+                "goals": 2,
+                "assists": 0,
+                "games": 3
+              },
+              {
+                "classification": 6,
+                "player": "Jhon Córdoba",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Krasnodar",
+                "country": "Colombian",
+                "goals": 2,
+                "assists": 1,
+                "games": 6
+              },
+              {
+                "classification": 7,
+                "player": "Julián Álvarez",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Man City",
+                "country": "Argentina",
+                "goals": 2,
+                "assists": 0,
+                "games": 5 
+              }
+          ]
+        },
+        {
+          "year": 2021,
+          "champion": "Argentina",
+          "topScorers": [
+              {
+                "classification": 1,
+                "player": "Jamal Musiala",
+                "position": "",
+                "team": "bayern de munique",
+                "country": "Alemanha",
+                "goals": 3, 
+                "assists": 0,
+                "games":  0
+              },
+              {
+                "classification": 2,
+                "player": "Ivan Schranz",
+                "position": "Atacante",
+                "team": "Slovan Bratislava",
+                "country": "Eslováquia",
+                "goals": 2,
+                "assistss": 1,
+                "games": 4
+              },    
+              {
+                "classification": 3,
+                "player": "",
+                "position": "",
+                "team": "",
+                "country": "",
+                "goals": 0,
+                "assists": 0,
+                "games": 0 
+              },
+              {
+                "classification": 4,
+                "player": "",
+                "position": "",
+                "team": "",
+                "country": "",
+                "goals": 0,
+                "assists": 0,
+                "games": 0 
+              },
+              {
+                "classification": 5,
+                "player": "",
+                "position": "",
+                "team": "",
+                "country": "",
+                "goals": 0,
+                "assists": 0,
+                "games": 0
+              },
+              {
+                "classification": 6,
+                "player": "",
+                "position": "",
+                "team": "",
+                "country": "",
+                "goals": 0,
+                "assists": 0,
+                "games": 0 
+              },
+              {
+                "classification": 7,
+                "player": "",
+                "position": "",
+                "team": "",
+                "country": "",
+                "goals": 0,
+                "assists": 0,
+                "games": 0 
+              }
+          ]
+        },
+        {
+          "year": 2019,
+          "champion": "Brasil",
+          "topScorers": [
+             {
+               "classification": 1,
+               "player": "Jamal Musiala",
+               "position": "",
+               "team": "bayern de munique",
+               "country": "Alemanha",
+               "goals": 3, 
+               "assists": 0,
+               "games": 0
+             },
+             {
+                "classification": 2,
+                "player": "Ivan Schranz",
+                "position": "Atacante",
+                "team": "Slovan Bratislava",
+                "country": "Eslováquia",
+                "goals": 2,
+                "assistss": 1,
+                "games": 4
+             },    
+             {
+                "classification": 3,
+                "player": "",
+                "position": "",
+                "team": "",
+                "country": "",
+                "goals": 0,
+                "assists": 0,
+                "games": 0 
+             },
+             {
+                "classification": 4,
+                "player": "",
+                "position": "",
+                "team": "",
+                "country": "",
+                "goals": 0,
+                "assists": 0,
+                "games": 0 
+             },
+             {
+                "classification": 5,
+                "player": "",
+                "position": "",
+                "team": "",
+                "country": "",
+                "goals": 0,
+                "assists": 0,
+                "games": 0
+             },
+             {
+                "classification": 6,
+                "player": "",
+                "position": "",
+                "team": "",
+                "country": "",
+                "goals": 0,
+                "assists": 0,
+                "games": 0
+             },
+             {
+                "classification": 7,
+                "player": "",
+                "position": "",
+                "team": "",
+                "country": "",
+                "goals": 0,
+                "assists": 0,
+                "games": 0
+             }
+          ]
+        },
+        {
+          "year": 2016,
+          "champion": "Chile",
+          "topScorers": [
+             {
+               "classification": 1,
+               "player": "Jamal Musiala",
+               "position": "",
+               "team": "bayern de munique",
+               "country": "Alemanha",
+               "goals": 3, 
+               "assists": 0,
+               "games": 0
+             },
+             {
+                "classification": 2,
+                "player": "Ivan Schranz",
+                "position": "Atacante",
+                "team": "Slovan Bratislava",
+                "country": "Eslováquia",
+                "goals": 2,
+                "assistss": 1,
+                "games": 4
+             },    
+             {
+              "classification": 3,
+              "player": "",
+              "position": "",
+              "team": "",
+              "country": "",
+              "goals": 0,
+              "assists": 0,
+              "games": 0 
+             },
+             {
+              "classification": 4,
+              "player": "",
+              "position": "",
+              "team": "",
+              "country": "",
+              "goals": 0,
+              "assists": 0,
+              "games": 0 
+             },
+             {
+             "classification": 5,
+             "player": "",
+             "position": "",
+             "team": "",
+             "country": "",
+             "goals": 0,
+             "assists": 0,
+             "games": 0
+             },
+             {
+              "classification": 6,
+              "player": "",
+              "position": "",
+              "team": "",
+              "country": "",
+              "goals": 0,
+              "assists": 0,
+              "games": 0 
+             },
+             {
+              "classification": 7,
+              "player": "",
+              "position": "",
+              "team": "",
+              "country": "",
+              "goals": 0,
+              "assists": 0,
+              "games": 0 
+             }
+          ]
+        }
+      ]
+    }
+  ]
+}

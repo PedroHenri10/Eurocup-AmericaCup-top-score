@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="icon" href="src/icones/iconeeurocopa2024.png"/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estatisticas eurocopa</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+    
+    <header>
+        <div class="idiomas">
+            <label for="language-select" class="label-idioma"></label>
+            <select name="language-select" id="language-select" class="language-select">
+                <option value="Pt-BR" data-img="src/icones/brasilflag.png">Pt-BR</option>
+                <option value="En-UK" data-img="">En-UK</option> 
+            </select>
+            <div>
+                <img src="src/icones/brasilflag.png" alt="" class="flag">
+            </div>
+        </div>
+
+        <div class="header-box">
+            <div class="logo-euro">
+                <img id="logo-euro" src="src/img/logoeurocopa2024.png" alt="logo da eurocopa">
+            </div>
+            <h1>Artilheiros Eurocopa 2024</h1>
+            <a>
+                <img id="logo-campeao" class="open-modal" data-modal="modal-champion" src="src/img/logocampeaeuro2024.png" alt="logo da seleção campeã">
+            </a>
+        </div>
+    </header>
+
+    <main>
+        <dialog id="modal-champion" class="modal-team-champion">
+            <div class="divGames">
+                
+            </div>
+        </dialog>
+        <table id="topscoresTable">
+
+            <thead>
+                <tr>
+                    <th class="cabecalho-table" colspan="8"><label for="edicao" class="label-edicao">Edição</label>
+                        <select name="edicao" id="edicao" class="edition yearSelected">
+                            <option value="2024">2024</option>
+                            <option value="2020">2020</option>
+                            <option value="2016">2016</option>
+                        </select></th>
+                </tr>
+                <tr class="title-header">
+                    <th>Nº</th>
+                    <th>Jogador</th>
+                    <th>Posição</th>
+                    <th>Time</th>
+                    <th>País</th>
+                    <th>Gols</th>
+                    <th>Ass</th>
+                    <th>Jogos</th>
+                </tr>
+            </thead>
+            <tbody id="data-table">
+            </tbody>
+        </table>
+    </main>
+
+  <script type="module" src="index.js"></script>
+  <script type="module" src="modal.js"></script>
+  <script type="module" src="updatePage.js"></script>
+  <script type="module" src="language.js"></script>
+</body>
+</html>

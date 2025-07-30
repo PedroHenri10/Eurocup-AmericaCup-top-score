@@ -1,0 +1,300 @@
+{
+  "competitions": [
+    {
+      "id": 1,
+      "name": "Eurocopa",
+      "editions": [
+        {
+          "year": 2024,
+          "campaign": [
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Olympiastadion Berlin",
+              "champion": "Spain",
+              "goals_champions": "3",
+              "match": "ESP X CRO",
+              "goals_opponent": "0",
+              "opponent": "Croatia",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "VeltinsArena",
+              "champion": "Spain",
+              "goals_champions": "1",
+              "match": "ESP X ITA",
+              "goals_opponent": "0",
+              "opponent": "Italy",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Merkur Spiel Arena",
+              "champion": "Spain",
+              "goals_champions": "1",
+              "match": "ESP X ALB",
+              "goals_opponent": "0",
+              "opponent": "Albania",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Oitavas",
+              "round_UK": "Round of 16",
+              "stadium": "Merkur Spiel Arena",
+              "champion": "Spain",
+              "goals_champions": "4",
+              "match": "ESP X GEO",
+              "goals_opponent": "1",
+              "opponent": "Georgia",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Quartas",
+              "round_UK": "Quarter Final",
+              "stadium": "MHPArena",
+              "champion": "Spain",
+              "goals_champions": "2",
+              "match": "ESP X GER",
+              "goals_opponent": "1",
+              "opponent": "Germany",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Semifinal",
+              "round_UK": "Semifinal",
+              "stadium": "Allianz Arena",
+              "champion": "Spain",
+              "goals_champions": "2",
+              "match": "ESP X FRA",
+              "goals_opponent": "1",
+              "opponent": "France",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Final",
+              "round_UK": "Final",
+              "stadium": "Olympiastadion Berlin",
+              "champion": "Spain",
+              "goals_champions": "2",
+              "match": "ESP X ENG",
+              "goals_opponent": "1",
+              "opponent": "England",
+              "extra_time": "",
+              "penalty": ""
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "campaign": [
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Stadio Olimpico Rome",
+              "champion": "Italy",
+              "goals_champions": "3",
+              "match": "ITA X TUR",
+              "goals_opponent": "0",
+              "opponent": "Turkey",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Stadio Olimpico Rome",
+              "champion": "Italy",
+              "goals_champions": "3",
+              "match": "ITA X SUI",
+              "goals_opponent": "0",
+              "opponent": "Switzerland",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Stadio Olimpico Rome",
+              "champion": "Italy",
+              "goals_champions": "1",
+              "match": "ITA X WAL",
+              "goals_opponent": "0",
+              "opponent": "Wales",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Oitavas",
+              "round_UK": "Round of 16",
+              "stadium": "Wembley Stadium",
+              "champion": "Italy",
+              "goals_champions": "2",
+              "match": "ITA X AUT",
+              "goals_opponent": "1",
+              "opponent": "Austria",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Quartas",
+              "round_UK": "Quarter Final",
+              "stadium": "Allianz Arena",
+              "champion": "Italy",
+              "goals_champions": "2",
+              "match": "ITA X BEL",
+              "goals_opponent": "1",
+              "opponent": "Belgium",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Semifinal",
+              "round_UK": "Semifinal",
+              "stadium": "Wembley Stadium",
+              "champion": "Italy",
+              "goals_champions": "1",
+              "match": "ITA X ESP",
+              "goals_opponent": "1",
+              "opponent": "Spain",
+              "extra_time": "",
+              "penalty": "4-2"
+            },
+            {
+              "round": "Final",
+              "round_UK": "Final",
+              "stadium": "Wembley Stadium",
+              "champion": "Italy",
+              "goals_champions": "1",
+              "match": "ITA X ENG",
+              "goals_opponent": "1",
+              "opponent": "England",
+              "extra_time": "",
+              "penalty": "3-2"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "campaign": [
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Stade GeoffroyGuichard",
+              "champion": "Portugal",
+              "goals_champions": "1",
+              "match": "POR X ISL",
+              "goals_opponent": "1",
+              "opponent": "Iceland",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Parc Des Princes",
+              "champion": "Portugal",
+              "goals_champions": "0",
+              "match": "POR X AUT",
+              "goals_opponent": "0",
+              "opponent": "Austria",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Parc Olympique Lyonnais",
+              "champion": "Portugal",
+              "goals_champions": "3",
+              "match": "POR X HUN",
+              "goals_opponent": "3",
+              "opponent": "Hungary",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Oitavas",
+              "round_UK": "Round of 16",
+              "stadium": "Stade BollaertDelelis",
+              "champion": "Portugal",
+              "goals_champions": "1",
+              "match": "POR X CRO",
+              "goals_opponent": "0",
+              "opponent": "Croatia",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Quartas",
+              "round_UK": "Quarter Final",
+              "stadium": "Stade Vélodrome",
+              "champion": "Portugal",
+              "goals_champions": "1",
+              "match": "POR X POL",
+              "goals_opponent": "1",
+              "opponent": "Poland",
+              "extra_time": "",
+              "penalty": "5-3"
+            },
+            {
+              "round": "Semifinal",
+              "round_UK": "Semifinal",
+              "stadium": "Parc Olympique Lyonnais",
+              "champion": "Portugal",
+              "goals_champions": "2",
+              "match": "POR X WAL",
+              "goals_opponent": "0",
+              "opponent": "Wales",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Final",
+              "round_UK": "Final",
+              "stadium": "Stade de France SaintDenis",
+              "champion": "Portugal",
+              "goals_champions": "1",
+              "match": "POR X FRA",
+              "goals_opponent": "0",
+              "opponent": "France",
+              "extra_time": "",
+              "penalty": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Copa América",
+      "editions": [
+        {
+          "year": 2024,
+          "campaign": [
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "a",
+              "champion": "Spain",
+              "goals_champions": "0",
+              "match": "",
+              "goals_opponent": "",
+              "opponent": "",
+              "extra_time": "",
+              "penalty": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
