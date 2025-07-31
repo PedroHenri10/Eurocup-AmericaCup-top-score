@@ -43,4 +43,12 @@ document.addEventListener("DOMContentLoaded", () => {
     modal.close();
     divGames.innerHTML = "";
   });
+
+  modal.addEventListener("click", (event) => {
+      if (event.target === modal) {
+        modal.close();
+        divGames.innerHTML = "";
+      }
+  });
 });
+
