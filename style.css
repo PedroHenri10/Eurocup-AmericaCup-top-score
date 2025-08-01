@@ -291,6 +291,14 @@ h5{
 
 @media (max-width: 1024px) {
 
+    h1{
+        font-size: 2rem;
+    }
+
+    table{
+        margin-bottom: 2rem;
+    }
+
     dialog::after {
     background-color: rgba(0, 0, 0, 0.7);
     position: fixed;
@@ -306,6 +314,10 @@ h5{
     height: auto;
     margin: 30px auto;
   }
+
+  .modal-team-champion > *:last-child {
+    margin-bottom: 2rem;
+}
   
   .divGames {
     height: auto;
@@ -366,7 +378,7 @@ h5{
 
 @media (max-width: 480px) {
   h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 
   .header-box {
