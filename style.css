@@ -350,3 +350,30 @@ h5{
     width: 25px;
   }
 }
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  .header-box {
+    flex-direction: column;
+    gap: 1rem;
+    height: auto;
+    padding: 0.5rem;
+  }
+
+  table {
+    width: 100%;
+    font-size: 0.9rem;
+  }
+  
+  .divGames > div {
+    padding: 0.6rem;
+  }
+
+  .close {
+    height: 20px;
+    width: 20px;
+  }
+}
