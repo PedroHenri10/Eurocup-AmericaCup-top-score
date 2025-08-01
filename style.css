@@ -316,3 +316,37 @@ h5{
   }
 }
 
+@media (max-width: 768px) {
+  .modal-team-champion {
+    width: 98%;
+    margin: 20px auto;
+    height: auto;
+  }
+  
+  .divGames {
+    flex-direction: column;
+    height: auto;
+    gap: 0.5rem;
+  }
+  
+  .divGames > div {
+    flex-basis: 100%;
+    height: auto;
+    padding: 0.8rem;
+  }
+
+  h3, h4, h5 {
+    font-size: 14px;
+  }
+
+  .flag-modal, .goals {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+  }
+
+  .close {
+    height: 25px;
+    width: 25px;
+  }
+}
