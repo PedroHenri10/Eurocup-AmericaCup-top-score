@@ -376,6 +376,47 @@ h5{
   }
 }
 
+@media (max-width: 530px) {
+  table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    font-size: 0.85rem;
+  }
+
+  thead, tbody, th, td, tr {
+    display: block;
+    width: 100%;
+  }
+
+  thead {
+    display: none;
+  }
+
+  tr {
+    margin-bottom: 1rem;
+    background: rgba(0, 78, 160, 0.15);
+    border-radius: 6px;
+    padding: 0.6rem;
+  }
+
+  td {
+    text-align: right;
+    position: relative;
+    padding-left: 50%;
+  }
+
+  td::before {
+    content: attr(data-label);
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-weight: bold;
+    text-align: left;
+  }
+}
+
 @media (max-width: 480px) {
   h1 {
     font-size: 1.8rem;
