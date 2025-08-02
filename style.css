@@ -389,8 +389,14 @@ h5{
     width: 100%;
   }
 
-  thead {
-    display: none;
+  .row-edicao th {
+    text-align: center !important;
+  }
+
+  .label-edicao, #edicao {
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
   }
 
   tr {
