@@ -8,12 +8,14 @@ document.addEventListener("DOMContentLoaded", () => {
   const closeModal = document.querySelector('.close');
 
   function fetchCampaignData(selectedYear, selectedLanguage) {
+    divGames.innerHTML = '';
+
     fetch("campaign.json")
       .then(response => response.json())
       .then(data => {
         let campanha = data.competitions[0].editions.find(edition => edition.year === SelectedYear).campaign;
 
-        campanha.forEach(campaign => {
+        campanha.forEach((campaign,index) => {
           let boxgame = document.createElement('div');
           divGames.appendChild(boxgame);
 
@@ -29,6 +31,13 @@ document.addEventListener("DOMContentLoaded", () => {
             <p class="penalty"><sub>${campaign.penalty}</sub></p>
             <h5>${campaign.stadium}</h5>
           `;
+
+          boxgame.classList.add('card-animado');
+        
+        const delay = (index + 1) * 300;
+        
+        boxgame.style.animationDelay = `${delay}ms`;
+
         });
       });
   }
