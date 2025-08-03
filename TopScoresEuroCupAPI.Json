@@ -7,6 +7,7 @@
         {
           "year": 2024,
           "champion": "Spain",
+          "colors": { "cor1": "#8B0D11", "cor2": "#FCB507 ", "cor3": "#021250"},
           "topScorers": [
             {
               "classification": 1,
@@ -102,6 +103,7 @@
         {
           "year": 2020,
           "champion": "Italy",
+          "colors": { "cor1": "#009246", "cor2": "#F1F2F1 ", "cor3": "#CE2B37"},
           "topScorers": [
             {
               "classification": 1,
@@ -197,6 +199,7 @@
         {
           "year": 2016,
           "champion": "Portugal",
+          "colors": { "cor1": "#C60C30 ", "cor2": "#007236"},
           "topScorers": [
             {
               "classification": 1,
@@ -297,6 +300,7 @@
         {
           "year": 2024,
           "champion": "Argentina",
+          "colors": { "cor1": "#74ACDF", "cor2": "#ffffff"},
           "topScorers": [
               {
                 "classification": 1,
@@ -380,6 +384,7 @@
         {
           "year": 2021,
           "champion": "Argentina",
+          "colors": { "cor1": "#74ACDF", "cor2": "#ffffff"},
           "topScorers": [
               {
                 "classification": 1,
@@ -456,6 +461,7 @@
         {
           "year": 2019,
           "champion": "Brasil",
+          "colors": { "cor1": "#FFDF00", "cor2": "#302681", "cor3": "#009440"},
           "topScorers": [
              {
                "classification": 1,
@@ -532,6 +538,7 @@
         {
           "year": 2016,
           "champion": "Chile",
+          "colors": { "cor1": "#D72B1F", "cor2": "#ffffff", "cor3": "#0039A6"},
           "topScorers": [
              {
                "classification": 1,
