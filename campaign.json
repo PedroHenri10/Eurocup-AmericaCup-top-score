@@ -6,6 +6,7 @@
       "editions": [
         {
           "year": 2024,
+          "colors": { "cor1": "#8B0D11", "cor2": "#FCB507 ", "cor3": "#021250"},
           "campaign": [
             {
               "round": "Fase de grupo",
@@ -95,6 +96,7 @@
         },
         {
           "year": 2020,
+          "colors": { "cor1": "#009246", "cor2": "#F1F2F1 ", "cor3": "#CE2B37"},
           "campaign": [
             {
               "round": "Fase de grupo",
@@ -184,6 +186,7 @@
         },
         {
           "year": 2016,
+          "colors": { "cor1": "#C60C30 ", "cor2": "#007236"},
           "campaign": [
             {
               "round": "Fase de grupo",

@@ -324,6 +324,82 @@ h5{
   animation: girar 0.8s ease forwards;
 }
 
+.divGames > div{
+   position: relative;
+    overflow: hidden; 
+}
+
+borda-animada {
+    position: absolute;
+    --cor-1: #004ea0;
+    --cor-2: #a3ceec;    
+    opacity: 0; 
+}
+
+.card-animado .borda-animada {
+    opacity: 1;
+}
+
+.borda-topo {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: linear-gradient(to right, transparent, var(--cor-1), var(--cor-2));
+    animation: animar-borda-1 3s linear forwards;
+    animation-play-state: paused;
+}
+
+.borda-direita {
+    top: 0;
+    right: 0;
+    width: 3px;
+    height: 100%;
+    background: linear-gradient(to bottom, transparent, var(--cor-1), var(--cor-2));
+    animation: animar-borda-2 3s linear forwards 0.25s; 
+    animation-play-state: paused;
+}
+
+.borda-baixo {
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 3px;
+    background: linear-gradient(to left, transparent, var(--cor-1), var(--cor-2));
+    animation: animar-borda-3 3s linear forwards;
+    animation-play-state: paused;
+}
+
+.borda-esquerda {
+    bottom: 0;
+    left: 0;
+    width: 3px;
+    height: 100%;
+    background: linear-gradient(to top, transparent, var(--cor-1), var(--cor-2));
+    animation: animar-borda-4 3s linear forwards 0.25s;
+    animation-play-state: paused;
+}
+
+.card-animado.animacao-iniciada .borda-animada {
+    animation-play-state: running; 
+}
+
+@keyframes animar-borda-1 { 0% { transform: translateX(-100%); } 100% { transform: translateX(100%); } }
+@keyframes animar-borda-2 { 0% { transform: translateY(-100%); } 100% { transform: translateY(100%); } }
+@keyframes animar-borda-3 { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
+@keyframes animar-borda-4 { 0% { transform: translateY(100%); } 100% { transform: translateY(-100%); } }
+
+
+@keyframes aparecer-card {
+  from { opacity: 0; transform: scale(0.8); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.card-animado {
+  opacity: 0;
+  animation: aparecer-card 0.5s ease-out forwards;
+}
+
 @media (max-width: 1024px) {
 
     h1{
