@@ -74,6 +74,50 @@ document.addEventListener("DOMContentLoaded", () => {
             block: 'end'
           });
 
+          if (isLast) {
+            setTimeout(() => {
+              const canvas = document.createElement('canvas');
+              canvas.id = 'confetti-canvas';
+              canvas.style.position = 'absolute';
+              canvas.style.top = '0';
+              canvas.style.left = '0';
+              canvas.style.width = '100%';
+              canvas.style.height = '100%';
+              canvas.style.pointerEvents = 'none';
+              canvas.style.zIndex = '10000';
+              modal.appendChild(canvas);
+
+              const myConfetti = confetti.create(canvas, {
+                resize: true,
+                useWorker: true
+              });
+
+              const duration = 3 * 1000;
+              const end = Date.now() + duration;
+
+              (function frame() {
+                myConfetti({
+                  particleCount: 7,
+                  angle: 60,
+                  spread: 55,
+                  origin: { x: 0.1, y: 0.5 }
+                });
+                myConfetti({
+                  particleCount: 7,
+                  angle: 120,
+                  spread: 55,
+                  origin: { x: 0.9, y: 0.5 }
+                });
+
+                if (Date.now() < end) {
+                  requestAnimationFrame(frame);
+                } else {
+                  canvas.remove();
+                }
+              })();
+            }, 1000);
+          }
+
         }, index * 500);
       });
     });
