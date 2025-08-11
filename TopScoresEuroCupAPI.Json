@@ -327,7 +327,7 @@
                 "position": "PE",
                 "position_UK": "LM",
                 "team": "Liverpool",
-                "country": "Colombian",
+                "country": "Colombia",
                 "goals": 2,
                 "assists": 0,
                 "games": 6
@@ -360,7 +360,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Krasnodar",
-                "country": "Colombian",
+                "country": "Colombia",
                 "goals": 2,
                 "assists": 1,
                 "games": 6
@@ -385,73 +385,80 @@
           "topScorers": [
               {
                 "classification": 1,
-                "player": "Jamal Musiala",
-                "position": "",
-                "team": "bayern de munique",
-                "country": "Alemanha",
-                "goals": 3, 
-                "assists": 0,
-                "games":  0
+                "player": "Gianluca Lapadula",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Benevento calcio",
+                "country": "Peru",
+                "goals": 4, 
+                "assists": 1,
+                "games":  7
               },
               {
                 "classification": 2,
-                "player": "Ivan Schranz",
-                "position": "Atacante",
-                "team": "Slovan Bratislava",
-                "country": "Eslováquia",
-                "goals": 2,
-                "assistss": 1,
-                "games": 4
+                "player": "Lionel Messi",
+                "position": "PD",
+                "position_UK": "RW",
+                "team": "Barcelona",
+                "country": "Argentina",
+                "goals": 4,
+                "assistss": 5,
+                "games": 7
               },    
               {
                 "classification": 3,
-                "player": "",
-                "position": "",
-                "team": "",
-                "country": "",
-                "goals": 0,
+                "player": "Luiz Diaz",
+                "position": "PE",
+                "position_UK": "LW",
+                "team": "Porto FC",
+                "country": "Colombia",
+                "goals": 4,
                 "assists": 0,
-                "games": 0 
+                "games": 5 
               },
               {
                 "classification": 4,
-                "player": "",
-                "position": "",
-                "team": "",
-                "country": "",
-                "goals": 0,
+                "player": "Lautaro Martinez",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Inter de Milão",
+                "country": "Argentina",
+                "goals": 3,
                 "assists": 0,
-                "games": 0 
+                "games": 6 
               },
               {
                 "classification": 5,
-                "player": "",
-                "position": "",
-                "team": "",
-                "country": "",
-                "goals": 0,
-                "assists": 0,
-                "games": 0
+                "player": "Neymar",
+                "position": "Meia",
+                "position_UK": "ST",
+                "team": "PSG",
+                "country": "Brasil",
+                "goals": 2,
+                "assists": 3,
+                "games": 6
               },
               {
                 "classification": 6,
-                "player": "",
-                "position": "",
-                "team": "",
-                "country": "",
-                "goals": 0,
-                "assists": 0,
-                "games": 0 
+                "player": "Eduardo Vagas",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Atletico Mineiro",
+                "country": "Chile",
+                "goals": 2,
+                "assists": 1,
+                "games": 5 
               },
               {
                 "classification": 7,
-                "player": "",
-                "position": "",
-                "team": "",
-                "country": "",
-                "goals": 0,
-                "assists": 0,
-                "games": 0 
+                "player": "Andre Carrillo",
+                "position": "Meia",
+                "position_UK": "CAM",
+                "team": "Al-Hilal",
+                "country": "Peru",
+                "goals": 2,
+                "assists": 1,
+                "games": 6
               }
           ]
         },
@@ -460,76 +467,83 @@
           "champion": "Brasil",
           "colors": { "cor1": "#FFDF00", "cor2": "#302681", "cor3": "#009440"},
           "topScorers": [
-             {
-               "classification": 1,
-               "player": "Jamal Musiala",
-               "position": "",
-               "team": "bayern de munique",
-               "country": "Alemanha",
-               "goals": 3, 
-               "assists": 0,
-               "games": 0
-             },
-             {
+              {
+                "classification": 1,
+                "player": "Everton Cebolinha",
+                "position": "PE",
+                "position_UK": "LW",
+                "team": "Grêmio",
+                "country": "Brasil",
+                "goals": 3, 
+                "assists": 2,
+                "games": 6
+              },
+              {
                 "classification": 2,
-                "player": "Ivan Schranz",
-                "position": "Atacante",
-                "team": "Slovan Bratislava",
-                "country": "Eslováquia",
-                "goals": 2,
-                "assistss": 1,
-                "games": 4
-             },    
-             {
+                "player": "Paolo Guerrero",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Internacional",
+                "country": "Peru",
+                "goals": 3,
+                "assists": 1,
+                "games": 6
+              },
+              {
                 "classification": 3,
-                "player": "",
-                "position": "",
-                "team": "",
-                "country": "",
-                "goals": 0,
-                "assists": 0,
-                "games": 0 
-             },
-             {
+                "player": "Gabriel Jesus",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Manchester City",
+                "country": "Brasil",
+                "goals": 2,
+                "assists": 3,
+                "games": 6
+              },
+              {
                 "classification": 4,
-                "player": "",
-                "position": "",
-                "team": "",
-                "country": "",
-                "goals": 0,
-                "assists": 0,
-                "games": 0 
-             },
-             {
+                "player": "Roberto Firmino",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Liverpool",
+                "country": "Brasil",
+                "goals": 2,
+                "assists": 4,
+                "games": 6
+              },
+              {
                 "classification": 5,
-                "player": "",
-                "position": "",
-                "team": "",
-                "country": "",
-                "goals": 0,
-                "assists": 0,
-                "games": 0
-             },
-             {
+                "player": "Sergio Agüero",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Manchester City",
+                "country": "Argentina",
+                "goals": 2,
+                "assists": 1,
+                "games": 6
+              },
+              {
                 "classification": 6,
-                "player": "",
-                "position": "",
-                "team": "",
-                "country": "",
-                "goals": 0,
-                "assists": 0,
-                "games": 0
-             },
-             {
+                "player": "Alexis Sánchez",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Manchester United",
+                "country": "Chile",
+                "goals": 2,
+                "assists": 2,
+                "games": 6
+              },
+              {
                 "classification": 7,
-                "player": "",
-                "position": "",
-                "team": "",
-                "country": "",
-                "goals": 0,
-                "assists": 0,
-                "games": 0
-             }
+                "player": "Luis Suárez",
+                "position": "ATA",
+                "position_UK": "ST",
+                "team": "Barcelona",
+                "country": "Uruguay",
+                "goals": 2,
+                "assists": 2,
+                "games": 4
+              }
           ]
         },
         {
@@ -537,76 +551,83 @@
           "champion": "Chile",
           "colors": { "cor1": "#D72B1F", "cor2": "#ffffff", "cor3": "#0039A6"},
           "topScorers": [
-             {
-               "classification": 1,
-               "player": "Jamal Musiala",
-               "position": "",
-               "team": "bayern de munique",
-               "country": "Alemanha",
-               "goals": 3, 
-               "assists": 0,
-               "games": 0
-             },
-             {
-                "classification": 2,
-                "player": "Ivan Schranz",
-                "position": "Atacante",
-                "team": "Slovan Bratislava",
-                "country": "Eslováquia",
-                "goals": 2,
-                "assistss": 1,
-                "games": 4
-             },    
-             {
+            {
+              "classification": 1,
+              "player": "Eduardo Vargas",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Hoffenheim",
+              "country": "Chile",
+              "goals": 6, 
+              "assists": 2,
+              "games": 6
+            },
+            {
+              "classification": 2,
+              "player": "Lionel Messi",
+              "position": "PD",
+              "position_UK": "RW",
+              "team": "Barcelona",
+              "country": "Argentina",
+              "goals": 5,
+              "assists": 2,
+              "games": 5
+            },
+            {
               "classification": 3,
-              "player": "",
-              "position": "",
-              "team": "",
-              "country": "",
-              "goals": 0,
+              "player": "Gonzalo Higuaín",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Napoli",
+              "country": "Argentina",
+              "goals": 4,
               "assists": 0,
-              "games": 0 
-             },
-             {
+              "games": 6
+            },
+            {
               "classification": 4,
-              "player": "",
-              "position": "",
-              "team": "",
-              "country": "",
-              "goals": 0,
-              "assists": 0,
-              "games": 0 
-             },
-             {
-             "classification": 5,
-             "player": "",
-             "position": "",
-             "team": "",
-             "country": "",
-             "goals": 0,
-             "assists": 0,
-             "games": 0
-             },
-             {
+              "player": "Clint Dempsey",
+              "position": "SA",
+              "position_UK": "SS",
+              "team": "Seattle Sounders",
+              "country": "USA",
+              "goals": 3,
+              "assists": 3,
+              "games": 6
+            },
+            {
+              "classification": 5,
+              "player": "Alexis Sánchez",
+              "position": "ATA",
+              "position_UK": "ST",
+              "team": "Arsenal",
+              "country": "Chile",
+              "goals": 3,
+              "assists": 2,
+              "games": 6
+            },
+            {
               "classification": 6,
-              "player": "",
-              "position": "",
-              "team": "",
-              "country": "",
-              "goals": 0,
-              "assists": 0,
-              "games": 0 
-             },
-             {
+              "player": "Philippe Coutinho",
+              "position": "Meia",
+              "position_UK": "CAM",
+              "team": "Liverpool",
+              "country": "Brasil",
+              "goals": 3,
+              "assists": 2,
+              "games": 3
+            },
+            {
               "classification": 7,
-              "player": "",
-              "position": "",
-              "team": "",
-              "country": "",
-              "goals": 0,
-              "assists": 0,
-              "games": 0 
-             }
+              "player": "Arturo Vidal",
+              "position": "Meia",
+              "position_UK": "CAM",
+              "team": "Bayern de Munique",
+              "country": "Chile",
+              "goals": 2,
+              "assists": 2,
+              "games": 5
+            }
           ]
         }
       ]

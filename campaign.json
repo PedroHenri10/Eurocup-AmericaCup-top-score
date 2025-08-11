@@ -282,18 +282,325 @@
       "editions": [
         {
           "year": 2024,
+          "colors": { "cor1": "#74ACDF", "cor2": "#ffffff" },
           "campaign": [
             {
               "round": "Fase de grupo",
               "round_UK": "Group stage",
-              "stadium": "a",
-              "champion": "Spain",
-              "goals_champions": "0",
-              "match": "",
-              "goals_opponent": "",
-              "opponent": "",
+              "stadium": "Mercedes-Benz Stadium, Atlanta",
+              "champion": "Argentina",
+              "goals_champions": "2",
+              "match": "ARG X CAN",
+              "goals_opponent": "0",
+              "opponent": "Canada",
               "extra_time": "",
               "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "MetLife Stadium, East Rutherford",
+              "champion": "Argentina",
+              "goals_champions": "1",
+              "match": "ARG X CHI",
+              "goals_opponent": "0",
+              "opponent": "Chile",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Hard Rock Stadium, Miami",
+              "champion": "Argentina",
+              "goals_champions": "2",
+              "match": "ARG X PER",
+              "goals_opponent": "0",
+              "opponent": "Peru",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Quartas",
+              "round_UK": "Quarter Final",
+              "stadium": "NRG Stadium, Houston",
+              "champion": "Argentina",
+              "goals_champions": "1",
+              "match": "ARG X ECU",
+              "goals_opponent": "1",
+              "opponent": "Ecuador",
+              "extra_time": "",
+              "penalty": "4-2"
+            },
+            {
+              "round": "Semifinal",
+              "round_UK": "Semifinal",
+              "stadium": "MetLife Stadium, East Rutherford",
+              "champion": "Argentina",
+              "goals_champions": "2",
+              "match": "ARG X CAN",
+              "goals_opponent": "0",
+              "opponent": "Canada",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Final",
+              "round_UK": "Final",
+              "stadium": "Hard Rock Stadium, Miami",
+              "champion": "Argentina",
+              "goals_champions": "1",
+              "match": "ARG X COL",
+              "goals_opponent": "0",
+              "opponent": "Colombia",
+              "extra_time": "",
+              "penalty": ""
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "colors": { "cor1": "#74ACDF", "cor2": "#ffffff" },
+          "campaign": [
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Estádio Nilton Santos, Rio de Janeiro",
+              "champion": "Argentina",
+              "goals_champions": "1",
+              "match": "ARG X CHI",
+              "goals_opponent": "1",
+              "opponent": "Chile",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Estádio Olímpico, Brasília",
+              "champion": "Argentina",
+              "goals_champions": "1",
+              "match": "ARG X URU",
+              "goals_opponent": "0",
+              "opponent": "Uruguay",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Arena Pantanal, Cuiabá",
+              "champion": "Argentina",
+              "goals_champions": "1",
+              "match": "ARG X PAR",
+              "goals_opponent": "0",
+              "opponent": "Paraguay",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Estádio Olímpico, Brasília",
+              "champion": "Argentina",
+              "goals_champions": "4",
+              "match": "ARG X BOL",
+              "goals_opponent": "1",
+              "opponent": "Bolivia",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Quartas",
+              "round_UK": "Quarter Final",
+              "stadium": "Estádio Olímpico, Brasília",
+              "champion": "Argentina",
+              "goals_champions": "3",
+              "match": "ARG X EQU",
+              "goals_opponent": "0",
+              "opponent": "Ecuador",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Semifinal",
+              "round_UK": "Semifinal",
+              "stadium": "Estádio Mané Garrincha, Brasília",
+              "champion": "Argentina",
+              "goals_champions": "1",
+              "match": "ARG X COL",
+              "goals_opponent": "1",
+              "opponent": "Colombia",
+              "extra_time": "",
+              "penalty": "3-2"
+            },
+            {
+              "round": "Final",
+              "round_UK": "Final",
+              "stadium": "Maracanã, Rio de Janeiro",
+              "champion": "Argentina",
+              "goals_champions": "1",
+              "match": "ARG X BRA",
+              "goals_opponent": "0",
+              "opponent": "Brasil",
+              "extra_time": "",
+              "penalty": ""
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "colors": { "cor1": "#FFDF00", "cor2": "#302681", "cor3": "#009440" },
+          "campaign": [
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Estádio do Morumbi, São Paulo",
+              "champion": "Brasil",
+              "goals_champions": "3",
+              "match": "BRA X BOL",
+              "goals_opponent": "0",
+              "opponent": "Bolivia",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Arena Fonte Nova, Salvador",
+              "champion": "Brasil",
+              "goals_champions": "0",
+              "match": "BRA X VEN",
+              "goals_opponent": "0",
+              "opponent": "Venezuela",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Arena Corinthians, São Paulo",
+              "champion": "Brasil",
+              "goals_champions": "5",
+              "match": "BRA X PER",
+              "goals_opponent": "0",
+              "opponent": "Peru",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Quartas",
+              "round_UK": "Quarter Final",
+              "stadium": "Arena do Grêmio, Porto Alegre",
+              "champion": "Brasil",
+              "goals_champions": "0",
+              "match": "BRA X PAR",
+              "goals_opponent": "0",
+              "opponent": "Paraguay",
+              "extra_time": "",
+              "penalty": "4-3"
+            },
+            {
+              "round": "Semifinal",
+              "round_UK": "Semifinal",
+              "stadium": "Mineirão, Belo Horizonte",
+              "champion": "Brasil",
+              "goals_champions": "2",
+              "match": "BRA X ARG",
+              "goals_opponent": "0",
+              "opponent": "Argentina",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Final",
+              "round_UK": "Final",
+              "stadium": "Maracanã, Rio de Janeiro",
+              "champion": "Brasil",
+              "goals_champions": "3",
+              "match": "BRA X PER",
+              "goals_opponent": "1",
+              "opponent": "Peru",
+              "extra_time": "",
+              "penalty": ""
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "colors": { "cor1": "#D72B1F", "cor2": "#ffffff", "cor3": "#0039A6" },
+          "campaign": [
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Levi's Stadium, Santa Clara",
+              "champion": "Chile",
+              "goals_champions": "1",
+              "match": "CHI X ARG",
+              "goals_opponent": "2",
+              "opponent": "Argentina",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Gillette Stadium, Foxborough",
+              "champion": "Chile",
+              "goals_champions": "2",
+              "match": "CHI X BOL",
+              "goals_opponent": "1",
+              "opponent": "Bolivia",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Fase de grupo",
+              "round_UK": "Group stage",
+              "stadium": "Lincoln Financial Field, Philadelphia",
+              "champion": "Chile",
+              "goals_champions": "4",
+              "match": "CHI X PAN",
+              "goals_opponent": "2",
+              "opponent": "Panama",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Quartas",
+              "round_UK": "Quarter Final",
+              "stadium": "Levi's Stadium, Santa Clara",
+              "champion": "Chile",
+              "goals_champions": "7",
+              "match": "CHI X MEX",
+              "goals_opponent": "0",
+              "opponent": "Mexico",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Semifinal",
+              "round_UK": "Semifinal",
+              "stadium": "Soldier Field, Chicago",
+              "champion": "Chile",
+              "goals_champions": "2",
+              "match": "CHI X COL",
+              "goals_opponent": "0",
+              "opponent": "Colombia",
+              "extra_time": "",
+              "penalty": ""
+            },
+            {
+              "round": "Final",
+              "round_UK": "Final",
+              "stadium": "MetLife Stadium, East Rutherford",
+              "champion": "Chile",
+              "goals_champions": "0",
+              "match": "CHI X ARG",
+              "goals_opponent": "0",
+              "opponent": "Argentina",
+              "extra_time": "",
+              "penalty": "4-2"
             }
           ]
         }
