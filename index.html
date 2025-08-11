@@ -1,82 +1,25 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-br">
 <head>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="icon" href="src/icones/iconeeurocopa2024.png"/>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Estatisticas eurocopa</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css" type="text/css">
+    <title>Escolha a Competição</title>
+    <link rel="icon" href="src/icones/iconeeurocopa2024.png"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="start-screen.css" type="text/css">
 </head>
 <body>
-    
-    <header>
-        <div class="idiomas">
-            <label for="language-select" class="label-idioma"></label>
-            <select name="language-select" id="language-select" class="language-select">
-                <option value="Pt-BR" data-img="src/icones/brasilflag.png">Pt-BR</option>
-                <option value="En-UK" data-img="">En-UK</option> 
-            </select>
-            <div>
-                <img src="src/icones/brasilflag.png" alt="" class="flag">
+    <div class="landing-page">
+        <div class="content">
+            <div class="botoes-container">
+                <a href="cupAmerica.html" class="botao-competicao" id="btn-copa-america">Copa América</a>
+                <a href="cup.html" class="botao-competicao" id="btn-euro">Eurocopa</a>
             </div>
         </div>
+    </div>
 
-        <div class="header-box">
-            <div class="logo-euro">
-                <img id="logo-euro" src="src/img/logoeurocopa2024.png" alt="logo da eurocopa">
-            </div>
-            <h1>Artilheiros Eurocopa 2024</h1>
-            <a>
-                <img id="logo-campeao" class="open-modal" data-modal="modal-champion" src="src/img/logocampeaeuro2024.png" alt="logo da seleção campeã">
-            </a>
-        </div>
-    </header>
-
-    <main>
-        <dialog id="modal-champion" class="modal-team-champion">
-
-            <div class="modal-header">  
-                <img class="close" src="src/icones/fechar.png" alt="botão de fechar">
-            </div>
-            <div class="divGames">
-                
-            </div>
-        </dialog>
-        <table id="topscoresTable">
-
-            <thead>
-                <tr class="row-edicao">
-                    <th class="cabecalho-table" colspan="8"><label for="edicao" class="label-edicao">Edição</label>
-                        <select name="edicao" id="edicao" class="edition yearSelected">
-                            <option value="2024">2024</option>
-                            <option value="2020">2020</option>
-                            <option value="2016">2016</option>
-                        </select></th>
-                </tr>
-                <tr class="title-header">
-                    <th data-label="Nº">Nº</th>
-                    <th data-label="Jogador">Jogador</th>
-                    <th data-label="Posição">Posição</th>
-                    <th data-label="Time">Time</th>
-                    <th data-label="País">País</th>
-                    <th data-label="Gols">Gols</th>
-                    <th data-label="Ass">Ass</th>
-                    <th data-label="Jogos">Jogos</th>
-                </tr>
-            </thead>
-            <tbody id="data-table">
-            </tbody>
-        </table>
-    </main>
-
-  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
-  <script type="module" src="index.js"></script>
-  <script type="module" src="modal.js"></script>
-  <script type="module" src="updatePage.js"></script>
-  <script type="module" src="language.js"></script>
+    <script src="landing.js"></script>
 </body>
 </html>
