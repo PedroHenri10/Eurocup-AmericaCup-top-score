@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function fetchCampaignData(selectedYear, selectedLanguage) {
   divGames.innerHTML = '';
 
-  fetch("campaign.json")
+  fetch("./campaign.json")
     .then(response => response.json())
     .then(data => {
       const edition = data.competitions[1].editions.find(edition => edition.year === SelectedYear);
