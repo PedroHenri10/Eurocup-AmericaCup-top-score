@@ -9,7 +9,7 @@ function updatePage(){
     bgbody.style.backgroundImage = `url(src/backgronds/bg${SelectedYear}copaamerica.jpg)`;
     bgModal.style.backgroundImage = `url(src/img/teamcopa${SelectedYear}champions.jpg)`;
   
-  fetch("../TopScoresEuroCupAPI.json")
+  fetch("../TopScoresEuroCupAPI.Json")
     .then(response => response.json())
     .then(data => {
       

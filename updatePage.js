@@ -9,7 +9,7 @@ function updatePage(){
     bgbody.style.backgroundImage = `url(src/backgronds/bg${SelectedYear}eurocopa2000.jpg)`;
     bgModal.style.backgroundImage = `url(src/img/teameuro${SelectedYear}champions1800.jpg)`;
   
-  fetch("TopScoresEuroCupAPI.json")
+  fetch("TopScoresEuroCupAPI.Json")
     .then(response => response.json())
     .then(data => {
       
