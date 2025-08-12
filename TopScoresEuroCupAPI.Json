@@ -27,7 +27,7 @@
               "team": "Slovan Bratislava",
               "country": "Slovakia",
               "goals": 3,
-              "assistss": 0,
+              "assists": 0,
               "games": 4
             },    
             {
@@ -122,7 +122,7 @@
               "team": "Bayer Leverkusen",
               "country": "Czech-Republic",
               "goals": 5,
-              "assistss": 0,
+              "assists": 0,
               "games": 4
             },    
             {
@@ -217,7 +217,7 @@
               "team": "Real Madrid",
               "country": "Portugal",
               "goals": 3,
-              "assistss": 2,
+              "assists": 2,
               "games": 7
             },    
             {
@@ -318,7 +318,7 @@
                 "team": "Pachuca",
                 "country": "Venezuela",
                 "goals": 3,
-                "assistss": 1,
+                "assists": 1,
                 "games": 4
               },    
               {
@@ -402,7 +402,7 @@
                 "team": "Barcelona",
                 "country": "Argentina",
                 "goals": 4,
-                "assistss": 5,
+                "assists": 5,
                 "games": 7
               },    
               {
