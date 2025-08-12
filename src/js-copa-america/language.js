@@ -14,7 +14,7 @@ function updateLanguage(){
         goals.textContent = "Gols"
         games.textContent = "Jogos";
     }else if (selectedLanguage === "En-UK"){
-        flagLanguage.src = `src/icones/unitedKingdom.png`;
+        flagLanguage.src = `src/icones/unitedkingdom.png`;
         h1.textContent = `America´s Cup Top Scorers ${SelectedYear}`;
         edition.textContent = "Edition";
         player.textContent = "Player";
