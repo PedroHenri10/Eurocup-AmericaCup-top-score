@@ -1,5 +1,6 @@
 import { updatePage } from './update.js';
 import { updateLanguage } from './language.js';
+import {fetchCampaignData} from './modal.js';
 
 const topscoresTable = document.getElementById("topscoresTable");
 const tablebody = document.getElementById("data-table");

@@ -141,3 +141,5 @@ document.addEventListener("DOMContentLoaded", () => {
       }
   });
 });
+
+export {fetchCampaignData} from './modal.js';
