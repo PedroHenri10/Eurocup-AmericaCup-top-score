@@ -26,11 +26,11 @@ document.addEventListener("DOMContentLoaded", () => {
           boxgame.innerHTML = `
             <h3 class="match">${selectedLanguage === "Pt-BR" ? campaign.round : campaign.round_UK}</h3>
             <h4 class="match">
-              <img class="flag-modal" src="../icones/${campaign.champion}.png" alt="imagem seleção ${campaign.champion}"/>
+              <img class="flag-modal" src="icones/${campaign.champion}.png" alt="imagem seleção ${campaign.champion}"/>
               <span class="goals">${campaign.goals_champions}</span>
               ${campaign.match}
               <span class="goals">${campaign.goals_opponent}</span>
-              <img class="flag-modal" src="../icones/${campaign.opponent}.png" alt="imagem seleção ${campaign.opponent}"/>
+              <img class="flag-modal" src="icones/${campaign.opponent}.png" alt="imagem seleção ${campaign.opponent}"/>
             </h4>
             <p class="penalty"><sub>${campaign.penalty}</sub></p>
             <h5>${campaign.stadium}</h5>

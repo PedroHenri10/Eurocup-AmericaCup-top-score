@@ -37,7 +37,7 @@ function updatePage(){
           positionCell.textContent = selectedLanguage === "En-UK" ? artilheiro.position_UK : artilheiro.position;
           teamCell.textContent = artilheiro.team;
           const countryImage = document.createElement("img");
-          countryImage.src = `../icones/${artilheiro.country}.png`;
+          countryImage.src = `icones/${artilheiro.country}.png`;
           countryImage.alt = artilheiro.country;
           countryImage.className = "country-icone";
           countryCell.appendChild(countryImage);
