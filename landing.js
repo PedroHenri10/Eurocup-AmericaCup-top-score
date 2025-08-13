@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 tempDiv.remove();
             }, 3000); 
 
-        }, 7000);
+        }, 4000);
     }
 
     function pararSlideshow() {

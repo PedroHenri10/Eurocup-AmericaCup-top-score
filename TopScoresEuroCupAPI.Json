@@ -305,7 +305,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Inter de Milão",
-                "country": "Argentina",
+                "country": "argentina",
                 "goals": 5, 
                 "assists": 0,
                 "games": 6
@@ -316,7 +316,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Pachuca",
-                "country": "Venezuela",
+                "country": "venezuela",
                 "goals": 3,
                 "assists": 1,
                 "games": 4
@@ -327,7 +327,7 @@
                 "position": "PE",
                 "position_UK": "LM",
                 "team": "Liverpool",
-                "country": "Colombia",
+                "country": "colombia",
                 "goals": 2,
                 "assists": 0,
                 "games": 6
@@ -338,7 +338,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Liverpool",
-                "country": "Uruguay",
+                "country": "uruguay",
                 "goals": 2,
                 "assists": 0,
                 "games": 6
@@ -349,7 +349,7 @@
                 "position": "PE",
                 "position_UK": "LW",
                 "team": "Real Madrid",
-                "country": "Brasil",
+                "country": "brasil",
                 "goals": 2,
                 "assists": 0,
                 "games": 3
@@ -360,7 +360,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Krasnodar",
-                "country": "Colombia",
+                "country": "colombia",
                 "goals": 2,
                 "assists": 1,
                 "games": 6
@@ -371,7 +371,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Man City",
-                "country": "Argentina",
+                "country": "argentina",
                 "goals": 2,
                 "assists": 0,
                 "games": 5 
@@ -389,7 +389,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Benevento calcio",
-                "country": "Peru",
+                "country": "peru",
                 "goals": 4, 
                 "assists": 1,
                 "games":  7
@@ -400,7 +400,7 @@
                 "position": "PD",
                 "position_UK": "RW",
                 "team": "Barcelona",
-                "country": "Argentina",
+                "country": "argentina",
                 "goals": 4,
                 "assists": 5,
                 "games": 7
@@ -411,7 +411,7 @@
                 "position": "PE",
                 "position_UK": "LW",
                 "team": "Porto FC",
-                "country": "Colombia",
+                "country": "colombia",
                 "goals": 4,
                 "assists": 0,
                 "games": 5 
@@ -422,7 +422,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Inter de Milão",
-                "country": "Argentina",
+                "country": "argentina",
                 "goals": 3,
                 "assists": 0,
                 "games": 6 
@@ -433,7 +433,7 @@
                 "position": "Meia",
                 "position_UK": "ST",
                 "team": "PSG",
-                "country": "Brasil",
+                "country": "brasil",
                 "goals": 2,
                 "assists": 3,
                 "games": 6
@@ -444,7 +444,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Atletico Mineiro",
-                "country": "Chile",
+                "country": "chile",
                 "goals": 2,
                 "assists": 1,
                 "games": 5 
@@ -455,7 +455,7 @@
                 "position": "Meia",
                 "position_UK": "CAM",
                 "team": "Al-Hilal",
-                "country": "Peru",
+                "country": "peru",
                 "goals": 2,
                 "assists": 1,
                 "games": 6
@@ -473,7 +473,7 @@
                 "position": "PE",
                 "position_UK": "LW",
                 "team": "Grêmio",
-                "country": "Brasil",
+                "country": "brasil",
                 "goals": 3, 
                 "assists": 2,
                 "games": 6
@@ -484,7 +484,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Internacional",
-                "country": "Peru",
+                "country": "peru",
                 "goals": 3,
                 "assists": 1,
                 "games": 6
@@ -495,7 +495,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Manchester City",
-                "country": "Brasil",
+                "country": "brasil",
                 "goals": 2,
                 "assists": 3,
                 "games": 6
@@ -506,7 +506,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Liverpool",
-                "country": "Brasil",
+                "country": "brasil",
                 "goals": 2,
                 "assists": 4,
                 "games": 6
@@ -517,7 +517,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Manchester City",
-                "country": "Argentina",
+                "country": "argentina",
                 "goals": 2,
                 "assists": 1,
                 "games": 6
@@ -528,7 +528,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Manchester United",
-                "country": "Chile",
+                "country": "chile",
                 "goals": 2,
                 "assists": 2,
                 "games": 6
@@ -539,7 +539,7 @@
                 "position": "ATA",
                 "position_UK": "ST",
                 "team": "Barcelona",
-                "country": "Uruguay",
+                "country": "uruguay",
                 "goals": 2,
                 "assists": 2,
                 "games": 4
@@ -557,7 +557,7 @@
               "position": "ATA",
               "position_UK": "ST",
               "team": "Hoffenheim",
-              "country": "Chile",
+              "country": "chile",
               "goals": 6, 
               "assists": 2,
               "games": 6
@@ -568,7 +568,7 @@
               "position": "PD",
               "position_UK": "RW",
               "team": "Barcelona",
-              "country": "Argentina",
+              "country": "argentina",
               "goals": 5,
               "assists": 2,
               "games": 5
@@ -579,7 +579,7 @@
               "position": "ATA",
               "position_UK": "ST",
               "team": "Napoli",
-              "country": "Argentina",
+              "country": "argentina",
               "goals": 4,
               "assists": 0,
               "games": 6
@@ -601,7 +601,7 @@
               "position": "ATA",
               "position_UK": "ST",
               "team": "Arsenal",
-              "country": "Chile",
+              "country": "chile",
               "goals": 3,
               "assists": 2,
               "games": 6
@@ -612,7 +612,7 @@
               "position": "Meia",
               "position_UK": "CAM",
               "team": "Liverpool",
-              "country": "Brasil",
+              "country": "brasil",
               "goals": 3,
               "assists": 2,
               "games": 3
@@ -623,7 +623,7 @@
               "position": "Meia",
               "position_UK": "CAM",
               "team": "Bayern de Munique",
-              "country": "Chile",
+              "country": "chile",
               "goals": 2,
               "assists": 2,
               "games": 5
